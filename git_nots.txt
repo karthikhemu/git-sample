@@ -1,5 +1,3 @@
-1.to check the status go to folder path using cd path name git status 
-if any error like it is not git file 
+git commands
 
-2.to make the normal folder to git repo use --git init
-again check the status using == git status
+1.git status -->print the status of the repor
